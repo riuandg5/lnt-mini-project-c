@@ -1,37 +1,42 @@
-# SDLC Activity Based Learning
+<!-- banner -->
+![banner](6_ImagesAndVideos/banner.svg)
 
-Visit [Pages for Report -optional](using github.io option)
+<!-- project title -->
+# Sudoku Game
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)
+<!-- badges -->
 
+<!-- project details -->
+This project is part of LnT STEPin SDLC Activity Based Learning. The objective is to apply SDLC, use multi-file programming, do unit testing, use Git and other task automation tools.
 
+Sudoku is a logic-based, combinatorial number-placement puzzle. In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid contains all of the digits from 1 to 9. The puzzle initially provides a partially completed grid, which for a well-posed puzzle has a single solution.
+
+This project written in the C programming language provides an interface for playing the Sudoku game. For more details on the project read the [requirements](3_Requirements/Readme.md) and [design](2_Design/Readme.md) docs. For building the project refer to the [implementation](3_Implementation/Readme.md) doc. 
+
+<!-- folder structure -->
 ## Folder Structure
-Folder             | Description
--------------------| -----------------------------------------
-`1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
-`3_Implementation` | All code and documentation
-`4_Test_plan`      | Documents with test plans and procedures
+| Folder              | Description                                   |
+|---------------------|-----------------------------------------------|
+| `1_Requirements`    | Documents detailing requirements and research |
+| `2_Design`          | Documents specifying design details           |
+| `3_Implementation`  | All code and documentation                    |
+| `4_Test_plan`       | Documents with test plans and procedures      |
+| `6_ImagesAndVideos` | Project images and videos                     |
 
+<!-- list of contributers -->
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No     
+| SF Id.   | Name        | Features |
+|----------|-------------|----------|
+| `258661` | Rishu Anand | F_01     |
 
+| Feature Id | Feature |
+|------------|---------|
+| F_01       | --      |
+|
+<!-- problems faced and their solutions -->
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
-3. ...
-4. ...
-
-## Learning Resources
-1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
-3. [git inspector](https://github.com/ejwa/gitinspector.git)
-4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
-
+| No. | Challenge | Solution |
+|-----|-----------|----------|
+| 1.  | --        | --       |
