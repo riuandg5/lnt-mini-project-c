@@ -27,19 +27,12 @@ Apart from the above benefits, solving Sudoku has always been a source of fun an
 * Most of the services take partially completed sudoku from the user and generate the solution.
 
 ## Defining Our System
-* Menu to play computer generated puzzle or input custom puzzle.
-* Computer generated puzzle:
-    * Take size of the puzzle as input.
-    * Take row, coloumn and value as input to fill.
-    * Get a random hint on demand.
-    * Check for validity of board on finish and output result.
-    * Can check for all possible solutions.
-* Custom puzzle:
-    * Take size of the puzzle as input.
-    * Take number as input to set custom board.
-    * Check for validity of board.
-    * Solve by yourself or get solution from the solver.
-* Option to save progress of current puzzle.
+* Program will offer to play computer generated puzzle or play custom made puzzle.
+* Player can select the size of puzzle.
+* Player can fill numbers in emply cells.
+* Player can take hint on demand.
+* Player can submit solution and check results.
+* Player can skip playing and see all possible solutions.
 
 
 ## SWOT ANALYSIS
