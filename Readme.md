@@ -33,10 +33,10 @@ This project written in the C programming language provides an interface for pla
 | Feature Id | Feature |
 |------------|---------|
 | F_01       | --      |
-|
+
 <!-- problems faced and their solutions -->
 ## Challenges Faced and How Was It Overcome
 
-| No. | Challenge | Solution |
-|-----|-----------|----------|
-| 1.  | --        | --       |
+| No. | Challenge                                   | Solution                                                                                                                                                                                                                                                                                    |
+|-----|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.  | Understanding symbols used in UML diagrams. | Found [Visual Paradigm](https://www.visual-paradigm.com/guide/) guide very helpful for learning types of UML diagrams and symbols used in them.<br> Found [diagrams.net](https://www.diagrams.net/) or [draw.io](https://www.draw.io/) very easy to use and free tool to make UML diagrams. |
