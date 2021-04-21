@@ -1,5 +1,5 @@
 <!-- banner -->
-![banner](6_ImagesAndVideos/banner.svg)
+![banner](6_ImagesAndVideos/banner.png)
 
 <!-- project title -->
 # Sudoku Game
@@ -11,7 +11,7 @@ This project is part of LnT STEPin SDLC Activity Based Learning. The objective i
 
 Sudoku is a logic-based, combinatorial number-placement puzzle. In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid contains all of the digits from 1 to 9. The puzzle initially provides a partially completed grid, which for a well-posed puzzle has a single solution.
 
-This project written in the C programming language provides an interface for playing the Sudoku game. For more details on the project read the [requirements](3_Requirements/Readme.md) and [design](2_Design/Readme.md) docs. For building the project refer to the [implementation](3_Implementation/Readme.md) doc. 
+This project written in the C programming language provides an interface for playing the Sudoku game. For more details on the project read the [requirements](1_Requirements/Readme.md) and [design](2_Design/Readme.md) docs. For building the project refer to the [implementation](3_Implementation/Readme.md) doc. 
 
 <!-- folder structure -->
 ## Folder Structure
