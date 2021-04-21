@@ -9,3 +9,6 @@
 ![activity diagram](../6_ImagesAndVideos/activity_diagram.png)
 
 ## Low Level Design 
+
+### State Diagram:
+![state diagram](../6_ImagesAndVideos/state_diagram.png)
